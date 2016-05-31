@@ -156,10 +156,5 @@ public class MainActivity extends AppCompatActivity {
         cityList.add(city26);
         City city27 = new City("台湾","28");
         cityList.add(city27);
-
-
-
-
-
     }
 }
